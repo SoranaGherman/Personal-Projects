@@ -1,2 +1,2 @@
-# C++ application made using Qt Model/View architecture.
+# C++ application created using Qt Model/View architecture.
 
